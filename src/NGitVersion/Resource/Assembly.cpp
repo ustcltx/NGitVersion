@@ -30,4 +30,3 @@ using namespace System::Security::Permissions;
 [assembly:AssemblyVersionAttribute(VERSION)];
 [assembly:AssemblyFileVersionAttribute(VERSION)];
 [assembly:AssemblyInformationalVersionAttribute(FULL_VERSION)];
-
